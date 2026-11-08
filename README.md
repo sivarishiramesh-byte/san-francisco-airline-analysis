@@ -26,6 +26,6 @@ This project helped me improve my skills in data analysis, dashboard creation, a
 
 ## Dashboard Preview
 
-![San Francisco Airline Analysis Dashboard](dashboard%201.png)
+![San Francisco Airline Analysis Dashboard](./dashboard%201.png)
 
 
