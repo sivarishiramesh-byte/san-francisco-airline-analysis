@@ -11,7 +11,7 @@ This project focuses on analyzing airline data related to San Francisco using Ta
 ## Dashboard
 The interactive dashboard is published on Tableau Public.
 
-**Tableau Public Link:** Paste your published dashboard link here.
+Tableau Public Link:https://public.tableau.com/app/profile/sivarishi.r/viz/SanFranciscoAirportFlightAnalysisDashboard/Dashboard1Paste your published dashboard link here.
 
 ## Project File
 The Tableau workbook is available in this repository.
