@@ -23,3 +23,9 @@ The Tableau workbook is available in this repository.
 
 ## Conclusion
 This project helped me improve my skills in data analysis, dashboard creation, and data visualization using Tableau Public.
+
+## Dashboard Preview
+
+![San Francisco Airline Analysis Dashboard](airline_dashboard.png)
+
+
